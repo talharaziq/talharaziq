@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Talha Raziq — Bioinformatics, Computational Biology, AI and Machine Learning</title>
+<desc id="desc">A dark scientific interface with a glowing DNA helix and connected data nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1322"/><stop offset="0.58" stop-color="#070B14"/><stop offset="1" stop-color="#131027"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#66F2D5"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#FB7185"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#4C7DCC" stop-opacity=".20"/><stop offset="1" stop-color="#4C7DCC" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="338" rx="25" fill="none" stroke="#25344B" stroke-width="1.5"/>
+<circle cx="1000" cy="155" r="300" fill="url(#glow)"/>
+<!-- technical grid -->
+<g stroke="#243149" stroke-width="1" opacity=".34">
+  <path d="M40 0 V340"/><path d="M80 0 V340"/><path d="M120 0 V340"/><path d="M160 0 V340"/><path d="M200 0 V340"/><path d="M240 0 V340"/><path d="M280 0 V340"/><path d="M320 0 V340"/><path d="M360 0 V340"/><path d="M400 0 V340"/><path d="M440 0 V340"/><path d="M480 0 V340"/><path d="M520 0 V340"/><path d="M560 0 V340"/><path d="M600 0 V340"/><path d="M640 0 V340"/><path d="M680 0 V340"/><path d="M720 0 V340"/><path d="M760 0 V340"/><path d="M800 0 V340"/><path d="M840 0 V340"/><path d="M880 0 V340"/><path d="M920 0 V340"/><path d="M960 0 V340"/><path d="M1000 0 V340"/><path d="M1040 0 V340"/><path d="M1080 0 V340"/><path d="M1120 0 V340"/><path d="M1160 0 V340"/>
+  <path d="M0 20 H1200"/><path d="M0 40 H1200"/><path d="M0 60 H1200"/><path d="M0 80 H1200"/><path d="M0 100 H1200"/><path d="M0 120 H1200"/><path d="M0 140 H1200"/><path d="M0 160 H1200"/><path d="M0 180 H1200"/><path d="M0 200 H1200"/><path d="M0 220 H1200"/><path d="M0 240 H1200"/><path d="M0 260 H1200"/><path d="M0 280 H1200"/><path d="M0 300 H1200"/><path d="M0 320 H1200"/>
+</g>
+<!-- fine scan-line accents -->
+<path d="M0 286 H450" stroke="#66F2D5" opacity=".36" stroke-width="1.2"/>
+<path d="M735 47 H1160" stroke="#A78BFA" opacity=".32" stroke-width="1.2"/>
+<!-- DNA helix right -->
+<g fill="none" stroke-linecap="round">
+  <path d="M690 45 C905 75 690 105 905 135 S690 195 905 225 S690 285 905 315" stroke="url(#mint)" stroke-width="4" opacity=".94"/>
+  <path d="M905 45 C690 75 905 105 690 135 S905 195 690 225 S905 285 690 315" stroke="url(#violet)" stroke-width="4" opacity=".88"/>
+  <path d="M874 55 L725 55" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 75 L874 75" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 95 L725 95" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 115 L874 115" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 135 L725 135" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 155 L874 155" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 175 L725 175" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 195 L874 195" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 215 L725 215" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 235 L874 235" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 255 L725 255" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 275 L874 275" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M874 295 L725 295" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/><path d="M725 315 L874 315" stroke="#91A6C5" stroke-width="1.5" opacity=".52"/>
+</g>
+<!-- connected network -->
+<g stroke="#6D84B3" stroke-width="1.2" opacity=".64" fill="none">
+  <path d="M950 72 L1035 100 L1110 63 L1153 122 L1075 159 L1140 220 L1050 257 L1122 297"/>
+  <path d="M1035 100 L1055 40 L1110 63 M1075 159 L1000 205 L1050 257 M1140 220 L1174 181 L1153 122"/>
+</g>
+<g>
+  <circle cx="950" cy="72" r="4" fill="#66F2D5" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1035" cy="100" r="5" fill="#A78BFA" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1110" cy="63" r="4" fill="#66F2D5" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1153" cy="122" r="6" fill="#60A5FA" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1075" cy="159" r="5" fill="#FB7185" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1140" cy="220" r="5" fill="#66F2D5" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1050" cy="257" r="6" fill="#A78BFA" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1122" cy="297" r="4" fill="#60A5FA" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1055" cy="40" r="3" fill="#FB7185" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1000" cy="205" r="3" fill="#60A5FA" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/><circle cx="1174" cy="181" r="3" fill="#66F2D5" stroke="#DDFCF7" stroke-opacity=".45" stroke-width="1"/>
+</g>
+<!-- left identity -->
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+  <rect x="72" y="48" width="245" height="28" rx="14" fill="#13263A" stroke="#31526B"/>
+  <circle cx="90" cy="62" r="4" fill="#66F2D5"/>
+  <text x="103" y="67" font-size="11" font-weight="700" letter-spacing="2.5" fill="#66F2D5">COMPUTATIONAL LIFE SCIENCE</text>
+  <text x="70" y="142" font-size="53" font-weight="750" letter-spacing="-1.8" fill="#EAF1FB">TALHA RAZIQ</text>
+  <rect x="72" y="157" width="96" height="4" rx="2" fill="url(#mint)"/>
+  <text x="72" y="193" font-size="20" font-weight="600" fill="#D5E3F5">Bioinformatics <tspan fill="#66F2D5">/</tspan> Computational Biology</text>
+  <text x="72" y="223" font-size="18" fill="#9AAAC0">Exploring genomics, biological data and machine learning.</text>
+  <g font-size="11" font-weight="700" letter-spacing="1.2">
+    <rect x="72" y="250" width="140" height="30" rx="8" fill="#111D2E" stroke="#2B4057"/><text x="87" y="269" fill="#66F2D5">TRANSCRIPTOMICS</text>
+    <rect x="221" y="250" width="112" height="30" rx="8" fill="#111D2E" stroke="#2B4057"/><text x="236" y="269" fill="#A78BFA">STRUCTURES</text>
+    <rect x="342" y="250" width="93" height="30" rx="8" fill="#111D2E" stroke="#2B4057"/><text x="358" y="269" fill="#FB7185">AI / ML</text>
+  </g>
+  <text x="72" y="312" font-size="11" letter-spacing="2.1" fill="#647893">BIOLOGY IN · COMPUTATION THROUGH · INSIGHT OUT</text>
+</g>
+</svg>
