@@ -22,8 +22,6 @@
 
 I’m a Biotechnology graduate from Gomal University exploring the overlap between **bioinformatics, computational biology, genomics, and machine learning**. I like turning biological questions into reproducible computational workflows, from transcriptomic analysis to protein-structure measurements.
 
-My projects are a work in progress, and I try to document methods, results, and limitations clearly so that the analysis can be inspected and reproduced.
-
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -42,8 +40,6 @@ My projects are a work in progress, and I try to document methods, results, and 
 </table>
 
 ## `02 // SELECTED WORK`
-
-The cards below are designed as clickable project covers. They are static SVG artwork inside the README; clicking one opens the underlying repository. The interactive structure viewer is linked separately.
 
 <table>
   <tr>
@@ -68,13 +64,6 @@ The cards below are designed as clickable project covers. They are static SVG ar
   </tr>
 </table>
 
-<details>
-  <summary><b>Notes on the research results</b></summary>
-  <br />
-  The AMR structural project measures the spatial proximity of resistance-associated positions listed by CARD against matched random residue pairs. The listed mutations are not shown to co-occur or depend on one another, so the analysis does <i>not</i> establish genetic epistasis. The reported distances come from one run and have limitations described in the repository.
-  <br /><br />
-  The breast-cancer model is exploratory and uses one public dataset. Its current cross-validated ROC-AUC is moderate; it is not a clinically validated prediction tool and has not had independent external validation.
-</details>
 
 ## `03 // TOOLKIT`
 
@@ -107,7 +96,7 @@ The cards below are designed as clickable project covers. They are static SVG ar
   </tr>
 </table>
 
-*This list describes tools represented in my projects and learning path; it is not a claim of equal proficiency across every tool.*
+
 
 ## `04 // GITHUB TELEMETRY`
 
@@ -122,11 +111,9 @@ The cards below are designed as clickable project covers. They are static SVG ar
 
 </div>
 
-<sub>Language percentages are based on the code present in eligible public repositories. They measure repository composition, not personal proficiency. Third-party statistics images can occasionally be rate-limited or unavailable.</sub>
 
 ## `05 // CONTRIBUTION MATRIX`
 
-The snake animation is generated from the public GitHub contribution calendar by the included GitHub Actions workflow. After you upload the files, run **Actions → Generate contribution snake → Run workflow** once; it will also refresh daily.
 
 <div align="center">
 <picture>
