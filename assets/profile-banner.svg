@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Talha Raziq — Bioinformatics and Computational Biology</title>
+<desc id="desc">A dark scientific interface with Talha Raziq's name in mint green outlined boxes, a DNA helix, protein-like molecular form and connected data nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131A"/><stop offset=".58" stop-color="#071018"/><stop offset="1" stop-color="#111326"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#66F2D5"/><stop offset="1" stop-color="#34C98F"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6DE8D0"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#31D5AB" stop-opacity=".18"/><stop offset="1" stop-color="#31D5AB" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#25413F" stroke-width=".7" opacity=".55"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)" opacity=".42"/>
+<circle cx="960" cy="166" r="300" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#31534D" stroke-width="1.5"/>
+<!-- Fine interface marks -->
+<path d="M34 30H104M34 30V67M1166 293V330H1098" fill="none" stroke="#66F2D5" stroke-width="2" opacity=".7"/>
+<path d="M35 306H520M690 45H1160" stroke="#66F2D5" stroke-width="1" opacity=".22"/>
+<!-- DNA helix on the right -->
+<path d="M736 32 C980 68 735 103 980 138 S735 206 980 241 S735 282 980 332" fill="none" stroke="url(#mint)" stroke-width="4" stroke-linecap="round" opacity=".96"/>
+<path d="M980 32 C735 68 980 103 735 138 S980 206 735 241 S980 282 735 332" fill="none" stroke="url(#violet)" stroke-width="4" stroke-linecap="round" opacity=".92"/>
+<g stroke="#B3D8CE" stroke-width="1.4" opacity=".46">
+  <path d="M945 42H771M771 61H945M945 81H771M771 101H945M945 121H771M771 141H945M945 161H771M771 181H945M945 201H771M771 221H945M945 241H771M771 261H945M945 281H771M771 301H945M945 321H771"/>
+</g>
+<!-- Molecule / network -->
+<g fill="none" stroke="#73BFAE" stroke-width="1.3" opacity=".6">
+  <path d="M1007 70L1070 45L1137 84L1098 144L1150 190L1083 237L1134 302M1070 45L1087 12L1137 84M1098 144L1036 182L1083 237M1150 190L1172 151"/>
+  <path d="M1007 70L1030 21M1137 84L1175 57"/>
+</g>
+<g stroke="#C4FFF0" stroke-width="1" stroke-opacity=".5">
+  <circle cx="1007" cy="70" r="4" fill="#66F2D5"/><circle cx="1070" cy="45" r="5" fill="#A78BFA"/><circle cx="1137" cy="84" r="5" fill="#66F2D5"/><circle cx="1098" cy="144" r="5" fill="#60A5FA"/><circle cx="1150" cy="190" r="5" fill="#66F2D5"/><circle cx="1083" cy="237" r="5" fill="#A78BFA"/><circle cx="1134" cy="302" r="4" fill="#60A5FA"/><circle cx="1087" cy="12" r="3" fill="#66F2D5"/><circle cx="1172" cy="151" r="3" fill="#66F2D5"/>
+</g>
+<!-- Identity -->
+<g font-family="DejaVu Sans, Arial, sans-serif">
+  <rect x="64" y="48" width="342" height="28" rx="14" fill="#102B28" stroke="#2F6C5E"/>
+  <circle cx="82" cy="62" r="4" fill="#66F2D5"/>
+  <text x="96" y="66" font-family="DejaVu Sans Mono, monospace" font-size="11" font-weight="700" letter-spacing="1.8" fill="#91F5D9">COMPUTATIONAL LIFE SCIENCE</text>
+  <!-- TALHA -->
+  <g font-family="DejaVu Sans Mono, monospace" font-size="27" font-weight="700" text-anchor="middle" fill="#E8FFF8">
+    <g><rect x="64" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="88" y="148">T</text></g>
+    <g><rect x="120" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="144" y="148">A</text></g>
+    <g><rect x="176" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="200" y="148">L</text></g>
+    <g><rect x="232" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="256" y="148">H</text></g>
+    <g><rect x="288" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="312" y="148">A</text></g>
+  <!-- RAZIQ -->
+    <g><rect x="354" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="378" y="148">R</text></g>
+    <g><rect x="410" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="434" y="148">A</text></g>
+    <g><rect x="466" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="490" y="148">Z</text></g>
+    <g><rect x="522" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="546" y="148">I</text></g>
+    <g><rect x="578" y="110" width="48" height="58" rx="8" fill="#0A2925" stroke="#66F2D5" stroke-width="2"/><text x="602" y="148">Q</text></g>
+  </g>
+  <path d="M64 189H150" stroke="url(#mint)" stroke-width="4" stroke-linecap="round"/>
+  <text x="64" y="224" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#D8F8EB">BIOINFORMATICS <tspan fill="#66F2D5">/</tspan> COMPUTATIONAL BIOLOGY</text>
+  <text x="64" y="253" font-size="15" fill="#A7BBC0">Biology is the language. Data is the lens.</text>
+  <g font-family="DejaVu Sans Mono, monospace" font-size="10" font-weight="700" letter-spacing=".8">
+    <rect x="64" y="276" width="112" height="28" rx="6" fill="#0C2824" stroke="#347D68"/><text x="77" y="294" fill="#80ECCD">GENOMICS</text>
+    <rect x="186" y="276" width="220" height="28" rx="6" fill="#0C2824" stroke="#347D68"/><text x="199" y="294" fill="#80ECCD">STRUCTURAL BIOINFORMATICS</text>
+    <rect x="416" y="276" width="166" height="28" rx="6" fill="#0C2824" stroke="#347D68"/><text x="429" y="294" fill="#80ECCD">MACHINE LEARNING</text>
+  </g>
+  <text x="64" y="331" font-family="DejaVu Sans Mono, monospace" font-size="9" letter-spacing="1.2" fill="#688A87">BIOLOGY IN  ·  COMPUTATION THROUGH  ·  INSIGHT OUT</text>
+</g>
+</svg>
